@@ -1,0 +1,6 @@
+concrete-python
+streamlit
+google-generativeai
+numpy
+pandas
+graphviz
